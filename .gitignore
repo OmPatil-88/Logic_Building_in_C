@@ -42,3 +42,5 @@
 *.pdb
 *.ilk
 *.VC
+*.log
+*.VC.db
