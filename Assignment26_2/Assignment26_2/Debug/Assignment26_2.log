@@ -1,0 +1,7 @@
+﻿  Assignment.c
+f:\lb assignment\assignment26_2\assignment26_2\assignment.c(22): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\lb assignment\assignment26_2\assignment26_2\assignment.c(22): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\lb assignment\assignment26_2\assignment26_2\assignment.c(22): note: the missing variadic argument 2 is required by format string '%c'
+  f:\lb assignment\assignment26_2\assignment26_2\assignment.c(22): note: this argument is used as a buffer size
+  Assignment26_2.vcxproj -> F:\LB Assignment\Assignment26_2\Debug\Assignment26_2.exe
+  Assignment26_2.vcxproj -> F:\LB Assignment\Assignment26_2\Debug\Assignment26_2.pdb (Partial PDB)

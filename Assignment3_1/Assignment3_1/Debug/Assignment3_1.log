@@ -1,0 +1,4 @@
+﻿  3_1.c
+f:\lb assignment\assignment3_1\assignment3_1\3_1.c(19): warning C4715: 'PrintEven': not all control paths return a value
+  Assignment3_1.vcxproj -> F:\LB Assignment\Assignment3_1\Debug\Assignment3_1.exe
+  Assignment3_1.vcxproj -> F:\LB Assignment\Assignment3_1\Debug\Assignment3_1.pdb (Partial PDB)

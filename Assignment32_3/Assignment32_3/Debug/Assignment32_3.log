@@ -1,0 +1,4 @@
+﻿  Assignment.c
+f:\lb assignment\assignment32_3\assignment32_3\assignment.c(9): warning C4098: 'ChkBit': 'void' function returning a value
+  Assignment32_3.vcxproj -> F:\LB Assignment\Assignment32_3\Debug\Assignment32_3.exe
+  Assignment32_3.vcxproj -> F:\LB Assignment\Assignment32_3\Debug\Assignment32_3.pdb (Partial PDB)

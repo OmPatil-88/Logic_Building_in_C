@@ -1,0 +1,5 @@
+﻿  Assignment.c
+f:\lb assignment\assignment33_4\assignment33_4\assignment.c(9): warning C4033: 'OffBit' must return a value
+f:\lb assignment\assignment33_4\assignment33_4\assignment.c(14): warning C4715: 'OffBit': not all control paths return a value
+  Assignment33_4.vcxproj -> F:\LB Assignment\Assignment33_4\Debug\Assignment33_4.exe
+  Assignment33_4.vcxproj -> F:\LB Assignment\Assignment33_4\Debug\Assignment33_4.pdb (Partial PDB)

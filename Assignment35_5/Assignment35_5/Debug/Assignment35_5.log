@@ -1,0 +1,5 @@
+﻿  Assignment.c
+f:\lb assignment\assignment35_5\assignment35_5\assignment.c(10): warning C4033: 'ChkBit' must return a value
+f:\lb assignment\assignment35_5\assignment35_5\assignment.c(15): warning C4715: 'ChkBit': not all control paths return a value
+  Assignment35_5.vcxproj -> F:\LB Assignment\Assignment35_5\Debug\Assignment35_5.exe
+  Assignment35_5.vcxproj -> F:\LB Assignment\Assignment35_5\Debug\Assignment35_5.pdb (Partial PDB)

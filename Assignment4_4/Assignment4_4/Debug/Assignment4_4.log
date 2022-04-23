@@ -1,0 +1,4 @@
+﻿  4_4.c
+f:\lb assignment\assignment4_4\assignment4_4\4_4.c(13): warning C4715: 'TouristBill': not all control paths return a value
+  Assignment4_4.vcxproj -> F:\LB Assignment\Assignment4_4\Debug\Assignment4_4.exe
+  Assignment4_4.vcxproj -> F:\LB Assignment\Assignment4_4\Debug\Assignment4_4.pdb (Partial PDB)

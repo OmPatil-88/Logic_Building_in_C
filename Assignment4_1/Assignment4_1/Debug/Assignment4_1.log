@@ -1,0 +1,5 @@
+﻿  4_1.c
+f:\lb assignment\assignment4_1\assignment4_1\4_1.c(11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\lb assignment\assignment4_1\assignment4_1\4_1.c(15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Assignment4_1.vcxproj -> F:\LB Assignment\Assignment4_1\Debug\Assignment4_1.exe
+  Assignment4_1.vcxproj -> F:\LB Assignment\Assignment4_1\Debug\Assignment4_1.pdb (Partial PDB)

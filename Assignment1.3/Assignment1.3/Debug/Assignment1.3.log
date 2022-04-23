@@ -1,0 +1,5 @@
+﻿  1_3.c
+f:\lb assignment\assignment1.3\assignment1.3\1_3.c(15): warning C4013: 'gets' undefined; assuming extern returning int
+f:\lb assignment\assignment1.3\assignment1.3\1_3.c(11): warning C4716: 'Display': must return a value
+  Assignment1.3.vcxproj -> F:\LB Assignment\Assignment1.3\Debug\Assignment1.3.exe
+  Assignment1.3.vcxproj -> F:\LB Assignment\Assignment1.3\Debug\Assignment1.3.pdb (Full PDB)

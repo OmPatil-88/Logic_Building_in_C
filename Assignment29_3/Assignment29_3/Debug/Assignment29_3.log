@@ -1,0 +1,8 @@
+﻿  Assignment.c
+f:\lb assignment\assignment29_3\assignment29_3\assignment.c(22): warning C4013: 'gets' undefined; assuming extern returning int
+f:\lb assignment\assignment29_3\assignment29_3\assignment.c(24): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  f:\lb assignment\assignment29_3\assignment29_3\assignment.c(24): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  f:\lb assignment\assignment29_3\assignment29_3\assignment.c(24): note: the missing variadic argument 2 is required by format string '%c'
+  f:\lb assignment\assignment29_3\assignment29_3\assignment.c(24): note: this argument is used as a buffer size
+  Assignment29_3.vcxproj -> F:\LB Assignment\Assignment29_3\Debug\Assignment29_3.exe
+  Assignment29_3.vcxproj -> F:\LB Assignment\Assignment29_3\Debug\Assignment29_3.pdb (Partial PDB)

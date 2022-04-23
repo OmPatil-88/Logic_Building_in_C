@@ -1,0 +1,4 @@
+﻿  Assignment.c
+f:\lb assignment\assignment27_1\assignment27_1\assignment.c(21): warning C4013: 'gets' undefined; assuming extern returning int
+  Assignment27_1.vcxproj -> F:\LB Assignment\Assignment27_1\Debug\Assignment27_1.exe
+  Assignment27_1.vcxproj -> F:\LB Assignment\Assignment27_1\Debug\Assignment27_1.pdb (Partial PDB)

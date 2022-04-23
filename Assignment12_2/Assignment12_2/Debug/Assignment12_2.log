@@ -1,0 +1,4 @@
+﻿  assignment.c
+f:\lb assignment\assignment12_2\assignment12_2\assignment.c(32): warning C4013: '_getch' undefined; assuming extern returning int
+  Assignment12_2.vcxproj -> F:\LB Assignment\Assignment12_2\Debug\Assignment12_2.exe
+  Assignment12_2.vcxproj -> F:\LB Assignment\Assignment12_2\Debug\Assignment12_2.pdb (Partial PDB)

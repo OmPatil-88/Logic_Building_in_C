@@ -1,0 +1,4 @@
+﻿  1_2.c
+1_2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+Fisrt.obj : error LNK2005: _main already defined in 1_2.obj
+F:\LB Assignment\Assignment 1\Debug\Assignment 1.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,4 @@
+﻿  assignment.cpp
+f:\lb assignment\assignment6_5\assignment6_5\assignment.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Assignment6_5.vcxproj -> F:\LB Assignment\Assignment6_5\Debug\Assignment6_5.exe
+  Assignment6_5.vcxproj -> F:\LB Assignment\Assignment6_5\Debug\Assignment6_5.pdb (Partial PDB)
